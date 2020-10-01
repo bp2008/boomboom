@@ -1,9 +1,12 @@
 # boomboom
 
-A bomberman clone which I originally released on the Ouya console in 2013.
+A bomberman clone which I originally released on the Ouya console in 2013.  Like the Ouya console, this game was very unpopular.
+
+Requires a gamepad to play, but supports Xbox, Playstation, and Wii gamepads.
 
 ![screenshot of main menu](https://i.imgur.com/jvp858D.jpg)
 
+![screenshot of gameplay](https://i.imgur.com/w05opBH.jpg)
 
 ## Building From Source
 

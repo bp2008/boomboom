@@ -1,0 +1,68 @@
+
+World0.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+World0
+  rotate: false
+  xy: 1, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 1
+World0
+  rotate: false
+  xy: 23, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 2
+World0
+  rotate: false
+  xy: 45, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 3
+World0
+  rotate: false
+  xy: 67, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 4
+World0
+  rotate: false
+  xy: 89, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 5
+World0
+  rotate: false
+  xy: 111, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 6
+World0
+  rotate: false
+  xy: 111, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 8
+World0
+  rotate: false
+  xy: 111, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 9
+World0
+  rotate: false
+  xy: 133, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 7

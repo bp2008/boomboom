@@ -1,0 +1,68 @@
+
+World13.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+World13
+  rotate: false
+  xy: 1, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+World13
+  rotate: false
+  xy: 1, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+World13
+  rotate: false
+  xy: 131, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+World13
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+World13
+  rotate: false
+  xy: 131, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+World13
+  rotate: false
+  xy: 261, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+World13
+  rotate: false
+  xy: 131, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+World13
+  rotate: false
+  xy: 261, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+World13
+  rotate: false
+  xy: 261, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8

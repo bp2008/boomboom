@@ -2,7 +2,7 @@
 
 A bomberman clone which I originally released on the Ouya console in 2013.
 
-[screenshot of main menu](https://i.imgur.com/jvp858D.jpg)
+![screenshot of main menu](https://i.imgur.com/jvp858D.jpg)
 
 
 ## Building From Source
